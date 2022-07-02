@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saulo Ramalho</h1>
 <h3 align="center">I'm a theoretical physicist! I'm fascinated by data analysis and Machine Learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saulovcramalho&label=Profile%20views&color=0e75b6&style=flat" alt="saulovcramalho" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=saulovcramalho&label=Profile%20views&color=0e75b6&style=flat" alt="saulovcramalho" /> </p>-->
 
 - 🌱 I’m currently learning **Machine Learning**
 
